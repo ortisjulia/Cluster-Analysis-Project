@@ -2,7 +2,7 @@
 
 #!/usr/bin/python3
 '''
-    Title: VirusInvasion.py
+    Title: StructureLikeClusterAnalysis.py
     Date: 2021-02-17
     Author: Julia Ortis Sunyer
     Description:
